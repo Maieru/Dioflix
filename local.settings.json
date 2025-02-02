@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "nice try :)",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "DatabaseName": "DioFlix",
+    "ContainerName": "movies",
+    "CosmosDbConnection": "nice try :)"
+  },
+  "Host": {
+    "CORS": "*"
+  }
+}
